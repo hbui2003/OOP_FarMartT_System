@@ -1,0 +1,110 @@
++----------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                              |
++----------------------------------------------------------------------------------------+
+Invoice #  Store      Customer                       Num Items          Tax       Total
+INVA001     S001     Huy,Bui                		  1          $    500.00 $  90500.00
+INVA002     S002     Maya,Patel           			  1          $    1500.00$  151500.00
+INVA003     S003     Kelvin,Nguyen             	      1          $    500.00 $  50500.00
+INVA005     S005     Tom,Holland       				  1          $     42.90 $    642.90  
++----------------------------------------------------------------------------------------+
+                                                      4          $    2542.9 $ 293142.90
+
++----------------------------------------------------------------+
+| Store Sales Summary Report                                     |
++----------------------------------------------------------------+
+Store      Manager                        # Sales    Grand Total    
+S001     Huy,Bui                		1          $    90500.00
+S002     Maya,Patel           			1          $    151500.00
+S003     Kelvin,Nguyen                  1          $   144613.52
+S004     Kelvin,Nguyen           		1          $   50500.00
+S005     Tom,Holland                  	1          $    642.90
++----------------------------------------------------------------+
+                                        5        $ 		293142.90
+
+Invoice  #INVA001
+Store    #S001
+Date      2023-01-01
+Customer: 
+Huy,Bui (P001 : [huyyyunl321@gmail.com,hahahaha1234@hotmail.com])
+	123 Main Street
+	Lincoln,NE,90210,US
+
+Sales Person: 
+Ava,James (PP001 : [juliasmith2345@gmail.com,laurawright456@hotmail.com])
+	1234 Walnut Drive
+	Sycamore,CO,98101,US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+IC001          (Purchase) Bentley 100P 
+                                                             $  90000.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $  90000.00
+                                                         Tax $    500.00
+                                                 Grand Total $  90500.00
+Invoice  #INVA002
+Store    #S002
+Date      2023-01-02
+Customer: 
+Maya,Patel (P002 : [mavapatel@gmail.com,mavapatell789@gmail.com])
+	456 Oak Avenue
+	Zenith,NY,60610,US
+
+Sales Person: 
+Ava,James (PP001 : [juliasmith2345@gmail.com,laurawright456@hotmail.com])
+	1234 Walnut Drive
+	Sycamore,CO,98101,US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+IC002         (Leasing)  Lincoln 500Z          
+	364 days (2023-01-01 -> 2023-12-31) @ $5000.00/ 30 days
+                                                             $    150000.00
+
+                                                             -=-=-=-=-=-
+                                                    Subtotal $   150000.00
+                                                         Tax $    1500
+                                                 Grand Total $   151500.00
+Invoice  #INVA003
+Store    #S003
+Date      2023-01-01
+Customer: 
+Kelvin,Nguyen (P003 : [kelvinnguyen345@gmail.com,knguyen23@yahoo.com,brianlee5678@hotmail.com])
+	789 Maple Road
+	Arcadia,CA,10001,US
+
+Sales Person: 
+Harry,Potter (PP004 : [mitchellturner567@gmail.com,gabrieljackson456@hotmail.com])
+	3456 Ash Road
+	Pineview,PA,60647,US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+IC003          (Purchase) J11
+															 $  50000.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $  50000.00
+                                                         Tax $    500.00
+                                                 Grand Total $  50500.00
+Invoice  #INVA005
+Store    #S005
+Date      2023-01-05
+Customer: 
+Tom,Holland (P005 : [emilynguyen789@gmail.com,nataliebaker321@gmail.com,racheljackson7890@yahoo.comt])
+	567 Pine Lane
+	Sterling,TX,92101,US
+	
+Sales Person: 
+Harry,Potter (PP004 : [mitchellturner567@gmail.com,gabrieljackson456@hotmail.com])
+	3456 Ash Road
+	Pineview,PA,60647,US
+
+Item                                                               Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+IC005         (Product)  Potato seed            
+	10 @ $60.00/bag
+                                                             $   600.00
+                                                             -=-=-=-=-=-
+                                                    Subtotal $   600.00
+                                                         Tax $     42.90
+                                                 Grand Total $    642.90

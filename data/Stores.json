@@ -1,0 +1,152 @@
+{
+  "S005": {
+    "storeCode": "S005",
+    "manager": {
+      "personId": 0,
+      "personCode": "P003",
+      "firstName": "Williams",
+      "lastName": "Jessica",
+      "address": {
+        "addressId": 0,
+        "street": "789 Pine Drive",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60610",
+        "country": "US"
+      },
+      "emails": [
+        "jessicawilliams0@outlook.com",
+        "jessicawilliams1@outlook.com"
+      ]
+    },
+    "address": {
+      "addressId": 0,
+      "street": "555 Birchwood Avenue",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "90013",
+      "country": "US"
+    },
+    "invoices": []
+  },
+  "S003": {
+    "storeCode": "S003",
+    "manager": {
+      "personId": 0,
+      "personCode": "P001",
+      "firstName": "Bui",
+      "lastName": "Huy",
+      "address": {
+        "addressId": 0,
+        "street": "123 Main Street",
+        "city": "New York City",
+        "state": "NY",
+        "zip": "90210",
+        "country": "US"
+      },
+      "emails": [
+        "huybui0@gmail.com",
+        "huybui1@gmail.com"
+      ]
+    },
+    "address": {
+      "addressId": 0,
+      "street": "333 Sycamore Lane",
+      "city": "Dever",
+      "state": "CO",
+      "zip": "94122",
+      "country": "US"
+    },
+    "invoices": []
+  },
+  "S004": {
+    "storeCode": "S004",
+    "manager": {
+      "personId": 0,
+      "personCode": "P001",
+      "firstName": "Bui",
+      "lastName": "Huy",
+      "address": {
+        "addressId": 0,
+        "street": "123 Main Street",
+        "city": "New York City",
+        "state": "NY",
+        "zip": "90210",
+        "country": "US"
+      },
+      "emails": [
+        "huybui0@gmail.com",
+        "huybui1@gmail.com"
+      ]
+    },
+    "address": {
+      "addressId": 0,
+      "street": "444 Willow Street",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "60640",
+      "country": "US"
+    },
+    "invoices": []
+  },
+  "S001": {
+    "storeCode": "S001",
+    "manager": {
+      "personId": 0,
+      "personCode": "P001",
+      "firstName": "Bui",
+      "lastName": "Huy",
+      "address": {
+        "addressId": 0,
+        "street": "123 Main Street",
+        "city": "New York City",
+        "state": "NY",
+        "zip": "90210",
+        "country": "US"
+      },
+      "emails": [
+        "huybui0@gmail.com",
+        "huybui1@gmail.com"
+      ]
+    },
+    "address": {
+      "addressId": 0,
+      "street": "111 Cherry Road",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "90211",
+      "country": "US"
+    },
+    "invoices": []
+  },
+  "S002": {
+    "storeCode": "S002",
+    "manager": {
+      "personId": 0,
+      "personCode": "P003",
+      "firstName": "Williams",
+      "lastName": "Jessica",
+      "address": {
+        "addressId": 0,
+        "street": "789 Pine Drive",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60610",
+        "country": "US"
+      },
+      "emails": [
+        "jessicawilliams0@outlook.com",
+        "jessicawilliams1@outlook.com"
+      ]
+    },
+    "address": {
+      "addressId": 0,
+      "street": "222 Magnolia Drive",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "30308",
+      "country": "US"
+    },
+    "invoices": []
+  }
+}

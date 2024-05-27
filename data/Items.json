@@ -1,0 +1,86 @@
+{
+  "M011": {
+    "hourlyRate": 250.0,
+    "numOfHours": 0.0,
+    "code": "M011",
+    "name": "Harvesting"
+  },
+  "M010": {
+    "unit": "ton",
+    "unitPrice": 200.0,
+    "numQuant": 0.0,
+    "code": "M010",
+    "name": "Wheat"
+  },
+  "M004": {
+    "model": "Cont BR",
+    "code": "M004",
+    "name": "Truck"
+  },
+  "M003": {
+    "model": "Canes XR",
+    "code": "M003",
+    "name": "Seeder"
+  },
+  "M014": {
+    "hourlyRate": 300.0,
+    "numOfHours": 0.0,
+    "code": "M014",
+    "name": "Breeding"
+  },
+  "M002": {
+    "model": "WALLE X1R",
+    "code": "M002",
+    "name": "Sprayer"
+  },
+  "M013": {
+    "hourlyRate": 200.0,
+    "numOfHours": 0.0,
+    "code": "M013",
+    "name": "Plating"
+  },
+  "M001": {
+    "model": "Unl XP100",
+    "code": "M001",
+    "name": "Harvester"
+  },
+  "M012": {
+    "hourlyRate": 100.0,
+    "numOfHours": 0.0,
+    "code": "M012",
+    "name": "Soil testing"
+  },
+  "M008": {
+    "unit": "liter",
+    "unitPrice": 15.0,
+    "numQuant": 0.0,
+    "code": "M008",
+    "name": "Fertilizer"
+  },
+  "M007": {
+    "unit": "bag",
+    "unitPrice": 60.0,
+    "numQuant": 0.0,
+    "code": "M007",
+    "name": "Tomato seed"
+  },
+  "M006": {
+    "unit": "bag",
+    "unitPrice": 80.0,
+    "numQuant": 0.0,
+    "code": "M006",
+    "name": "Potato seed"
+  },
+  "M005": {
+    "model": "AnI 900",
+    "code": "M005",
+    "name": "Livestock trailer"
+  },
+  "M009": {
+    "unit": "soil",
+    "unitPrice": 900.0,
+    "numQuant": 0.0,
+    "code": "M009",
+    "name": "Top soil"
+  }
+}

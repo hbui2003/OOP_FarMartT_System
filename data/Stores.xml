@@ -1,0 +1,116 @@
+<map>
+  <entry>
+    <string>S005</string>
+    <com.fmt.Store>
+      <storeCode>S005</storeCode>
+      <manager>
+        <personId>0</personId>
+        <personCode>P003</personCode>
+        <firstName>Williams</firstName>
+        <lastName>Jessica</lastName>
+        <address>
+          <addressId>0</addressId>
+          <street>789 Pine Drive</street>
+          <city>Chicago</city>
+          <state>IL</state>
+          <zip>60610</zip>
+          <country>US</country>
+        </address>
+        <emails>
+          <string>jessicawilliams0@outlook.com</string>
+          <string>jessicawilliams1@outlook.com</string>
+        </emails>
+      </manager>
+      <address>
+        <addressId>0</addressId>
+        <street>555 Birchwood Avenue</street>
+        <city>Houston</city>
+        <state>TX</state>
+        <zip>90013</zip>
+        <country>US</country>
+      </address>
+      <invoices/>
+    </com.fmt.Store>
+  </entry>
+  <entry>
+    <string>S003</string>
+    <com.fmt.Store>
+      <storeCode>S003</storeCode>
+      <manager>
+        <personId>0</personId>
+        <personCode>P001</personCode>
+        <firstName>Bui</firstName>
+        <lastName>Huy</lastName>
+        <address>
+          <addressId>0</addressId>
+          <street>123 Main Street</street>
+          <city>New York City</city>
+          <state>NY</state>
+          <zip>90210</zip>
+          <country>US</country>
+        </address>
+        <emails>
+          <string>huybui0@gmail.com</string>
+          <string>huybui1@gmail.com</string>
+        </emails>
+      </manager>
+      <address>
+        <addressId>0</addressId>
+        <street>333 Sycamore Lane</street>
+        <city>Dever</city>
+        <state>CO</state>
+        <zip>94122</zip>
+        <country>US</country>
+      </address>
+      <invoices/>
+    </com.fmt.Store>
+  </entry>
+  <entry>
+    <string>S004</string>
+    <com.fmt.Store>
+      <storeCode>S004</storeCode>
+      <manager reference="../../../entry[2]/com.fmt.Store/manager"/>
+      <address>
+        <addressId>0</addressId>
+        <street>444 Willow Street</street>
+        <city>Lincoln</city>
+        <state>NE</state>
+        <zip>60640</zip>
+        <country>US</country>
+      </address>
+      <invoices/>
+    </com.fmt.Store>
+  </entry>
+  <entry>
+    <string>S001</string>
+    <com.fmt.Store>
+      <storeCode>S001</storeCode>
+      <manager reference="../../../entry[2]/com.fmt.Store/manager"/>
+      <address>
+        <addressId>0</addressId>
+        <street>111 Cherry Road</street>
+        <city>Chicago</city>
+        <state>IL</state>
+        <zip>90211</zip>
+        <country>US</country>
+      </address>
+      <invoices/>
+    </com.fmt.Store>
+  </entry>
+  <entry>
+    <string>S002</string>
+    <com.fmt.Store>
+      <storeCode>S002</storeCode>
+      <manager reference="../../../entry/com.fmt.Store/manager"/>
+      <address>
+        <addressId>0</addressId>
+        <street>222 Magnolia Drive</street>
+        <city>San Jose</city>
+        <state>CA</state>
+        <zip>30308</zip>
+        <country>US</country>
+      </address>
+      <invoices/>
+    </com.fmt.Store>
+  </entry>
+</map>

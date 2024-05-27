@@ -1,0 +1,15 @@
+14
+M001,E,Harvester,Unl XP100
+M002,E,Sprayer,WALLE X1R
+M003,E,Seeder,Canes XR
+M004,E,Truck,Cont BR
+M005,E,Livestock trailer,AnI 900
+M006,P,Potato seed,bag,80
+M007,P,Tomato seed,bag,60
+M008,P,Fertilizer,liter,15
+M009,P,Top soil,soil,900
+M010,P,Wheat,ton,200
+M011,S,Harvesting,250,
+M012,S,Soil testing,100
+M013,S,Plating,200
+M014,S,Breeding,300

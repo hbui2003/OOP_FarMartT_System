@@ -1,0 +1,128 @@
+<map>
+  <entry>
+    <string>M011</string>
+    <com.fmt.Service>
+      <code>M011</code>
+      <name>Harvesting</name>
+      <hourlyRate>250.0</hourlyRate>
+      <numOfHours>0.0</numOfHours>
+    </com.fmt.Service>
+  </entry>
+  <entry>
+    <string>M010</string>
+    <com.fmt.Product>
+      <code>M010</code>
+      <name>Wheat</name>
+      <unit>ton</unit>
+      <unitPrice>200.0</unitPrice>
+      <numQuant>0.0</numQuant>
+    </com.fmt.Product>
+  </entry>
+  <entry>
+    <string>M004</string>
+    <com.fmt.Equipment>
+      <code>M004</code>
+      <name>Truck</name>
+      <model>Cont BR</model>
+    </com.fmt.Equipment>
+  </entry>
+  <entry>
+    <string>M003</string>
+    <com.fmt.Equipment>
+      <code>M003</code>
+      <name>Seeder</name>
+      <model>Canes XR</model>
+    </com.fmt.Equipment>
+  </entry>
+  <entry>
+    <string>M014</string>
+    <com.fmt.Service>
+      <code>M014</code>
+      <name>Breeding</name>
+      <hourlyRate>300.0</hourlyRate>
+      <numOfHours>0.0</numOfHours>
+    </com.fmt.Service>
+  </entry>
+  <entry>
+    <string>M002</string>
+    <com.fmt.Equipment>
+      <code>M002</code>
+      <name>Sprayer</name>
+      <model>WALLE X1R</model>
+    </com.fmt.Equipment>
+  </entry>
+  <entry>
+    <string>M013</string>
+    <com.fmt.Service>
+      <code>M013</code>
+      <name>Plating</name>
+      <hourlyRate>200.0</hourlyRate>
+      <numOfHours>0.0</numOfHours>
+    </com.fmt.Service>
+  </entry>
+  <entry>
+    <string>M001</string>
+    <com.fmt.Equipment>
+      <code>M001</code>
+      <name>Harvester</name>
+      <model>Unl XP100</model>
+    </com.fmt.Equipment>
+  </entry>
+  <entry>
+    <string>M012</string>
+    <com.fmt.Service>
+      <code>M012</code>
+      <name>Soil testing</name>
+      <hourlyRate>100.0</hourlyRate>
+      <numOfHours>0.0</numOfHours>
+    </com.fmt.Service>
+  </entry>
+  <entry>
+    <string>M008</string>
+    <com.fmt.Product>
+      <code>M008</code>
+      <name>Fertilizer</name>
+      <unit>liter</unit>
+      <unitPrice>15.0</unitPrice>
+      <numQuant>0.0</numQuant>
+    </com.fmt.Product>
+  </entry>
+  <entry>
+    <string>M007</string>
+    <com.fmt.Product>
+      <code>M007</code>
+      <name>Tomato seed</name>
+      <unit>bag</unit>
+      <unitPrice>60.0</unitPrice>
+      <numQuant>0.0</numQuant>
+    </com.fmt.Product>
+  </entry>
+  <entry>
+    <string>M006</string>
+    <com.fmt.Product>
+      <code>M006</code>
+      <name>Potato seed</name>
+      <unit>bag</unit>
+      <unitPrice>80.0</unitPrice>
+      <numQuant>0.0</numQuant>
+    </com.fmt.Product>
+  </entry>
+  <entry>
+    <string>M005</string>
+    <com.fmt.Equipment>
+      <code>M005</code>
+      <name>Livestock trailer</name>
+      <model>AnI 900</model>
+    </com.fmt.Equipment>
+  </entry>
+  <entry>
+    <string>M009</string>
+    <com.fmt.Product>
+      <code>M009</code>
+      <name>Top soil</name>
+      <unit>soil</unit>
+      <unitPrice>900.0</unitPrice>
+      <numQuant>0.0</numQuant>
+    </com.fmt.Product>
+  </entry>
+</map>
